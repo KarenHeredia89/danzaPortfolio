@@ -1,0 +1,30 @@
+.fondo_pilar h2 {
+	padding-bottom: 10px;
+}
+.fondo_pilar a {
+	text-decoration: none;
+}
+.cuadro {
+	width: 230px;
+	margin: 0px 25px;
+	color: white;
+	text-align: center;
+}
+.cuadro_fondo {
+	margin: -200px 0px 130px 0px;
+	height: 100px;
+	width: 290px;
+	position: relative;
+	display: block;
+	background-color: black;
+	opacity: 0.5;
+}
+.cuadro h4, p {
+	padding-top: 10px;
+}
+img {
+	width: 290px;
+	height: 390px;
+	position: relative;
+	display: block;
+}

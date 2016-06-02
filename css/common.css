@@ -1,0 +1,61 @@
+header h1 {
+	color: #192951;
+	padding-top: 10px;
+}
+header {
+	text-align: center;
+}
+header a, li {
+	text-decoration: none;
+	color: rgb(83, 88, 95);
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px 20px ;
+}
+nav a:hover {
+	color: #192951;
+}
+.contactanos {
+	background-image: url(../img/shoes_!.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	padding: 100px 0px;
+}
+.contactanos h2 {
+	color: #192951;
+	font-family: LatoHeavy;
+	padding-bottom: 20px;
+}
+.fondo_pilar {
+	background-image: url(../img/tile2.png);
+	padding: 50px 0px;
+	color: gray;
+	text-align: center;
+}
+footer {
+	background-color: #192951;
+	padding: 30px 0px;
+}
+footer p {
+	color: white;
+
+}
+#submit_button {
+	height: 50px;
+	width: 200px;
+	background-color: #192951;
+	color: white;
+	font-size: 25px;
+}
+.input {
+	height: 50px;
+}
+.input, .input_2 {
+	font-size: 25px;
+	margin-left: 0px;
+	padding-left: 10px;
+	background-color: transparent;
+}
+.input_2 {
+	margin-bottom: 30px;
+}

@@ -1,0 +1,38 @@
+.gris {
+	background-color: #eee;
+	height: 280px;
+	padding: 50px 40px 0px;
+	color: gray;
+	text-align: left;
+}
+.fondo_pilar img {
+	width: 300px;
+	height: 280px;
+}
+.fondo_pilar .row {
+	padding-bottom: 20px;
+}
+.gris h3 {
+	padding-bottom: 5px;
+}
+.gris h5 {
+	padding-bottom: 9px;
+	font-style: italic;
+}
+.boton_ver {
+	height: 25px;
+	width: 100px;
+	border-radius: 7px;
+	background-color: #192951;
+	color: white;
+	text-align: center;
+	margin: 30px 0px;
+}
+a {
+	text-decoration: none;
+}
+h2 {
+	text-align: center;
+	padding-bottom: 30px;
+	color: black;
+}
